@@ -1,0 +1,15 @@
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Tyler\Desktop\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
